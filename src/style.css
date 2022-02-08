@@ -1,0 +1,25 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  border: 1px solid;
+  margin:5px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.Homediv{
+  background-color: black;
+  color: white;
+}
+.Aboutdiv{
+  background-color:indianred;
+  color: white;
+}
+.Servicesdiv{
+  background-color:seagreen;
+  color: white;
+}
+.Contactdiv{
+  background-color:darkcyan;
+  color: white;
+}
